@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Class-Path: javax.annotation-api-1.2.jar jetty-http-9.4.3.v20170317.ja
+ r javax.ws.rs-api-2.1.jar jetty-util-9.4.3.v20170317.jar jetty-contin
+ uation-9.4.3.v20170317.jar javax.inject-2.5.0-b42.jar javax.servlet-a
+ pi-3.1.0.jar jetty-server-9.4.3.v20170317.jar validation-api-1.1.0.Fi
+ nal.jar jersey-media-jaxb-2.26.jar jersey-common-2.26.jar osgi-resour
+ ce-locator-1.0.1.jar jetty-io-9.4.3.v20170317.jar jersey-client-2.26.
+ jar jersey-server-2.26.jar jersey-container-jetty-http-2.26.jar
+ lucene-backward-codecs-6.4.0.jar
+Main-Class: IndexService
